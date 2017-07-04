@@ -20,3 +20,4 @@ people2 = new girl "이주원"
 people1.distinction()
 people2.distinction()
 
+
